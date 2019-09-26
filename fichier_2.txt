@@ -2,5 +2,9 @@ Coucou fichier 2, modifi� r�solution post pull --rebase
 
 Modification depuis master !!
 Modification depuis new new feature <3 !
+<<<<<<< HEAD
 
 Encore une ligne
+=======
+Push force c'est pas bien <3
+>>>>>>> commité
