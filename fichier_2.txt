@@ -1,4 +1,5 @@
 
+Coucou fichier 2 , modif par noblesse sur master 
 Coucou fichier 2, modifi� r�solution post pull --rebase
 
 Coucou fichier 2 , modif par noblesse sur master 
@@ -6,4 +7,6 @@ Coucou fichier 2 , modif par noblesse sur master
 Modification depuis master !!
 Modification depuis new new feature <3 !
 
+<<<<<<< HEAD
 Encore une ligne
+modif pour stash
