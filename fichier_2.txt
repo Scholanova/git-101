@@ -1,8 +1,0 @@
-<<<<<<< HEAD
-Coucou fichier 42
-=======
-Coucou fichier 2, modifiŽ rŽsolution post pull --rebase
->>>>>>> 93d0120dba93f707f3647b9447dc6dc7c036c15a
-
-Modification depuis master !!
-Modification depuis new new feature <3 !
