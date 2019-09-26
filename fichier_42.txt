@@ -1,12 +1,13 @@
-
-Coucou fichier 2 , modif par noblesse sur master 
+<<<<<<< HEAD
 Coucou fichier 2, modifi� r�solution post pull --rebase
 
+<<<<<<< HEAD:fichier_2.txt
 Coucou fichier 2 , modif par noblesse sur master 
 
 Modification depuis master !!
+=======
+Modification depuis master !! test
+>>>>>>> c041137409171ad630cb568a192ebc5b85d93c40:fichier_42.txt
 Modification depuis new new feature <3 !
 
-<<<<<<< HEAD
 Encore une ligne
-modif pour stash
