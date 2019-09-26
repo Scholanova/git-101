@@ -1,1 +1,2 @@
 fichier 1 avec du texte.
+Texte modifié de la feature 1.
