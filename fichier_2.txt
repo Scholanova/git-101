@@ -5,5 +5,9 @@ Coucou fichier 2 , modif par noblesse sur master
 
 Modification depuis master !!
 Modification depuis new new feature <3 !
+<<<<<<< HEAD
 
 Encore une ligne
+=======
+Push force c'est pas bien <3
+>>>>>>> commité
