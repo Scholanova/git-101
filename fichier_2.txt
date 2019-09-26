@@ -1,4 +1,6 @@
-Coucou fichier 2, modifié résolution post pull --rebase
+Coucou fichier 2, modifie resolution post pull --rebase
 
 Modification depuis master !!
 Modification depuis new new feature <3 !
+
+MODIFICATION A STASH...
