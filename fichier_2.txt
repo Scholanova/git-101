@@ -1,9 +1,1 @@
-
-Coucou fichier 2, modifi� r�solution post pull --rebase
-
-Coucou fichier 2 , modif par noblesse sur master 
-
-Modification depuis master !!
-Modification depuis new new feature <3 !
-
-Encore une ligne
+modif pull request
