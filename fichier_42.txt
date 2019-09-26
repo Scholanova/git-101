@@ -1,1 +1,6 @@
-Coucou fichier 2
+Coucou fichier 2, modifi� r�solution post pull --rebase
+
+Modification depuis master !!
+Modification depuis new new feature <3 !
+
+Encore une ligne
